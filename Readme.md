@@ -1,6 +1,6 @@
 ﻿# Norwegian VAT Integration (Innovation Research Foundation)
 
-[![.NET Standard](https://img.shields.io/badge/.NET%20Standard-2.1-blue.svg)](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+[![.NET Standard](https://img.shields.io/badge/.NET%20Standard-2.0-blue.svg)](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 [![NuGet Version](https://img.shields.io/nuget/v/NorwegianVATIntegration.svg)](https://www.nuget.org/packages/NorwegianVATIntegration/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Documentation](https://img.shields.io/badge/docs-Wiki-green.svg)](https://github.com/norwegian-vat-integration/docs/wiki)
@@ -45,7 +45,7 @@ This library represents our "Innovation Research" repository where we:
 - **Tax planning** and optimization advice
 
 ### 🔧 Technical Features
-- 🎯 **.NET Standard 2.1** - Compatible with .NET Core, .NET 5+, Xamarin, Unity
+- 🎯 **.NET Standard 2.0** - Compatible with .NET Core, .NET 5+, Xamarin, Unity
 - 💉 **Dependency Injection** - First-class support for modern .NET applications
 - 📊 **Event-driven** - Fully observable with events for all operations
 - ⚙️ **Configurable** - All tax values configurable via options
