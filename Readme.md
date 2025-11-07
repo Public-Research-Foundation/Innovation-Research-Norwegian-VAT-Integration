@@ -142,12 +142,7 @@ public class MyTaxService
 NorwegianVATIntegration/
 ├── Interfaces/           # Service interfaces
 ├── Services/            # Concrete implementations
-├── Models/
-│   ├── Requests/        # Request models
-│   ├── Responses/       # Response models  
-│   ├── Events/          # Event models
-│   ├── Options/         # Configuration models
-│   └── Constants/       # Static tax values
+├── Models/*//           # Contains default models
 ├── Extensions/          # DI and configuration extensions
 └── Enums/              # Enumeration types
 ```
@@ -286,9 +281,9 @@ furnished to do so, subject to the following conditions:
 ## 📞 Contact and Support
 
 ### Official Documentation
-- [📚 Wiki](https://github.com/norwegian-vat-integration/docs/wiki)
-- [📖 API Reference](https://norwegian-vat-integration.github.io/api/)
-- [💡 Examples](https://github.com/norwegian-vat-integration/examples)
+- [📚 Wiki](https://github.com/Public-Research-Foundation/docs/wiki)
+- [📖 API Reference](https://github.com/Public-Research-Foundation/api/)
+- [💡 Examples](https://github.com/Public-Research-Foundation/examples)
 
 ### Get Help
 - **GitHub Issues** - for bug reports and feature requests
@@ -296,9 +291,9 @@ furnished to do so, subject to the following conditions:
 - **Email** - team@norwegian-vat-integration.no
 
 ### Follow Development
-- **📰 Blog** - https://blog.norwegian-vat-integration.no
+- **📰 Blog** - https://research.rettighet.org/
 - **🐦 Twitter** - [@NorwegianVATLib](https://twitter.com/NorwegianVATLib)
-- **💼 LinkedIn** - [Norwegian VAT Integration](https://linkedin.com/company/norwegian-vat-integration)
+- **💼 LinkedIn** - [Norwegian VAT Integration](https://www.linkedin.com/company/elias-research-foundation)
 
 ---
 
@@ -316,7 +311,7 @@ This project exists thanks to all contributors - developers, tax experts, tester
 
 ```bash
 # Install the package
-dotnet add package NorwegianVATIntegration
+dotnet add package XXX
 
 # Explore examples
 git clone https://github.com/norwegian-vat-integration/examples.git
