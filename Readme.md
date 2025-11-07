@@ -55,14 +55,14 @@ This library represents our "Innovation Research" repository where we:
 
 ## 🚀 Quick Start
 
-### Installation
+### Installation (Not implemented yet)
 
 ```bash
 # NuGet Package Manager
-Install-Package NorwegianVATIntegration
+Install-Package XXX
 
 # .NET CLI
-dotnet add package NorwegianVATIntegration
+dotnet add package XXX
 
 # PackageReference
 <PackageReference Include="NorwegianVATIntegration" Version="1.0.0" />
